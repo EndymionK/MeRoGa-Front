@@ -4,14 +4,14 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <footer className="relative z-1 bg-white pt-1 dark:bg-gray-dark md:pt-20 lg:pt-12">
-      <div className="container">
+      <div className="container mx-auto">
         <div className="flex items-center">
           <Link href="/" className="mb-8 inline-block">
             <Image
-              src="/images/logo/logo.svg"
+              src="/images/logo/logo-2.svg"
               alt="logo"
-              className="w-full dark:block"
-              width={140}
+              className=" dark:block"
+              width={400}
               height={30}
             />
           </Link>

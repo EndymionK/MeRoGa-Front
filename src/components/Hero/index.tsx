@@ -25,7 +25,8 @@ const Hero = () => {
                       alt="logo"
                       width={600}
                       height={30}
-                      className="align-middle mx-auto al"   
+                      className="align-middle mx-auto"   
+                                          
                   />
                 </div>
                 <h1 className="mb-10 text-5xl font-bold leading-tight text-black sm:text-4xl sm:leading-tight md:text-7xl md:leading-tight"style={{ textShadow: "2px 2px 4px rgba(255, 255, 255, 0.9)", color: "black" }}>
